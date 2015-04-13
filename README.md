@@ -25,6 +25,7 @@ Open the following url in your browser `http://localhost:3000` and start chattin
 
 ### Links
 
-- [Socket.io - chat example](http://socket.io/get-started/chat/)
 - http://nickdesaulniers.github.io/blog/2013/08/28/making-great-node-dot-js-modules-with-coffeescript/
 - http://codetheory.in/using-coffeescript-over-javascript-in-your-node-js-application-or-module/
+
+[Socket.io - chat example]: http://socket.io/get-started/chat/
